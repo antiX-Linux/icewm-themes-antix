@@ -1,0 +1,63 @@
+icewm-themes-antix (0.2.5) unstable; urgency=medium
+
+  * Fixed broken sym links of taskbar/menu images 
+
+ -- anticapitalista <antix@operamail.com>  Sat, 16 Apr 2016 13:47:46 +0300
+
+icewm-themes-antix (0.2.4) unstable; urgency=low 
+ 
+  * Added various Clearview themes (thanks to SamK)
+  * Removed Murrina themes
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 09 Mar 2016 15:25:00 +0200
+
+
+icewm-themes-antix (0.2.3) unstable; urgency=low 
+ 
+  * Packaged using dpkg-buildpackage.
+  * xz compressed deb.
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 24 Oct 2013 19:40:00 +0200
+
+
+icewm-themes-antix (0.2.2.3) unstable; urgency=low 
+ 
+  * Fixed ownership bug.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 August 2012 15:40:00 +0200
+
+
+icewm-themes-antix (0.2.2.2) unstable; urgency=low 
+ 
+  * Added copyright notice.
+
+ -- anticapitalista <antiX@operamail.com> Mon, 16 July 2012 15:30:00 +0200
+
+
+icewm-themes-antix (0.2.2.1) unstable; urgency=low 
+ 
+  * Removed ice-tyrex theme as it caused error.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 14 March 2012 17:00:00 +0200
+
+
+icewm-themes-antix (0.2.2) unstable; urgency=low 
+ 
+  * Removed conflicting themes already in icewm-themes.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 14 March 2012 15:00:00 +0200
+
+
+icewm-themes-antix (0.2.1) unstable; urgency=low 
+ 
+  * Added following themes: fake95, Fire95, small, Whistling.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 28 January 2012 20:00:00 +0200
+
+
+icewm-themes-antix (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 20 November 2011 15:30:00 +0200
+

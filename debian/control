@@ -1,0 +1,12 @@
+Source: icewm-themes-antix
+Section: antiX
+Priority: optional
+Maintainer: anticapitalista <antix@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: icewm-themes-antix
+Architecture: all 
+Depends: icewm 
+Description: extra icewm themes for antiX.
