@@ -119,7 +119,7 @@ ColorClockText="#000000"
 ColorNormalMenu="#C5C5C5"		# Defaults to using menubg.xpm if present
 ColorActiveMenuItem="#C0C0C0"		# Defaults to using menusel.xpm if present
 
-MenuFontNameXft="sans:size=12"
+MenuFontNameXft="sans:size=14"
 ColorActiveMenuItemText="#FFFFFF"
 ColorNormalMenuItemText="#000000"
 ColorDisabledMenuItemText="#B7B6B1"
@@ -130,7 +130,7 @@ ColorDisabledMenuItemText="#B7B6B1"
 # --------------------
 ColorQuickSwitch="#FFFFFF"		# Background colour of the quick switch window
 
-QuickSwitchFontNameXft="sans:size=12"
+QuickSwitchFontNameXft="sans:size=14"
 ColorQuickSwitchText="#000000"
 ColorQuickSwitchActive="#8B99A6"	# Background colour of selection bar
 

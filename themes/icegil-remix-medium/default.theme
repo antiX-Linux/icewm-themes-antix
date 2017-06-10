@@ -109,6 +109,15 @@ ClockFontNameXft		=	sans-serif:size=11
 InputFontNameXft		=	sans-serif:size=11
 
 TaskBarClockLeds=0
-#DesktopBackgroundCenter = 1
-#DesktopBackgroundImage = '/usr/share/wallpaper/AntiX BTB.jpg'
-#DesktopBackgroundScaled=1
+#MenuIconSize=16		        # Menu.  Disabled as not working. Defaults to SmallIconSize
+SmallIconSize=24 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=32			# Quickswitch window
+HugeIconSize=64				# ?  Cannot identify what it applies to
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image

@@ -1,3 +1,15 @@
+icewm-themes-antix (0.2.7) stretch; urgency=medium
+
+  * Created large, medium and small themes
+
+ -- anticapitalista <antix@operamail.com>  Tue, 11 Apr 2017 18:11:52 +0300
+
+icewm-themes-antix (0.2.6) unstable; urgency=medium
+
+  * Fixed themes for stetch release - needed to add DesktopBackground options in .heme files
+
+ -- anticapitalista <antix@operamail.com>  Fri, 03 Mar 2017 20:46:48 +0200
+
 icewm-themes-antix (0.2.5) unstable; urgency=medium
 
   * Fixed broken sym links of taskbar/menu images 

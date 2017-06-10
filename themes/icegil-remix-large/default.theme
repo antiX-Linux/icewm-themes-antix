@@ -91,24 +91,33 @@ ColorQuickSwitch="rgb:40/40/40"
 ColorQuickSwitchText="rgb:ff/ff/ff"
 
 # Font Specification
-TitleFontNameXft		=	arial:size=11:bold
-MenuFontNameXft			=	sans-serif:size=12
-MinimizedWindowFontNameXft	=	sans-serif:size=12
-ActiveButtonFontNameXft		=	sans-serif:size=12
-NormalButtonFontNameXft		=	sans-serif:size=12
-ToolButtonFontNameXft		=	sans-serif:size=12
-NormalWorkspaceFontNameXft	=	sans-serif:size=12
-ActiveWorkspaceFontNameXft	=	sans-serif:size=12
-QuickSwitchFontNameXft		=	sans-serif:size=12
-ListBoxFontNameXft		=	sans-serif:size=12
-StatusFontNameXft		=	sans-serif:size=12
-ToolTipFontNameXft		=	sans-serif:size=12
-ActiveTaskBarFontNameXft	=	sans-serif:size=12
-NormalTaskBarFontNameXft	=	sans-serif:size=12
-ClockFontNameXft		=	sans-serif:size=12
-InputFontNameXft		=	sans-serif:size=12
+TitleFontNameXft		=	sans:size=12:bold
+MenuFontNameXft			=	sans:size=14
+MinimizedWindowFontNameXft	=	sans:size=12:bold
+ActiveButtonFontNameXft		=	sans:size=14:bold
+NormalButtonFontNameXft		=	sans:size=14
+ToolButtonFontNameXft		=	sans:size=14
+NormalWorkspaceFontNameXft	=	sans:size=14
+ActiveWorkspaceFontNameXft	=	sans:size=14
+QuickSwitchFontNameXft		=	sans:size=14
+ListBoxFontNameXft		=	sans:size=14
+StatusFontNameXft		=	sans:size=14
+ToolTipFontNameXft		=	sans:size=14
+ActiveTaskBarFontNameXft	=	sans:size=14
+NormalTaskBarFontNameXft	=	sans:size=14
+ClockFontNameXft		=	sans:size=14
+InputFontNameXft		=	sans:size=14
 
 TaskBarClockLeds=0
-#DesktopBackgroundCenter = 1
-#DesktopBackgroundImage = '/usr/share/wallpaper/AntiX BTB.jpg'
-#DesktopBackgroundScaled=1
+#MenuIconSize=16		        # Menu.  Disabled as not working. Defaults to SmallIconSize
+SmallIconSize=24 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=32			# Quickswitch window
+HugeIconSize=64				# ?  Cannot identify what it applies to
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image
